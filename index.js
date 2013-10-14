@@ -1,7 +1,7 @@
 var path=require("path");
 
 	module.exports=function(){
-		return path.resolve(__dirnname +"/selenium-server-standalone-2.35.0.jar")
+		return path.resolve(__dirname +"/selenium-server-standalone-2.35.0.jar")
 	};
 
 
