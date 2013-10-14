@@ -1,0 +1,22 @@
+{
+	"name": "selenium-standalone-wrapper",
+	"version": "2.35.0",
+	"description": "A node wrapper for the selenium standalone server",
+	"url": "",
+	"author": {
+		"name": "tony gurnick",
+		"email": "tony.gurnick@gmail.com"
+	},
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tonygurnick/selenium-standalone-wrapper.git"
+	},
+	"keywords": [
+		"selenium"
+	],
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.6"
+	}
+}
